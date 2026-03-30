@@ -1,0 +1,5 @@
+{
+  "name": "Instalador Rápido",
+  "description": "Gerador de scripts para instalação em massa de aplicativos com um único clique.",
+  "requestFramePermissions": []
+}
